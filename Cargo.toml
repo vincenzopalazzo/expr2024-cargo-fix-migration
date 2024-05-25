@@ -1,0 +1,7 @@
+[package]
+name = "expr2023-cargo-fix"
+version = "0.1.0"
+edition = "2021"
+authors = ["Vincenzo Palazzo <vincenzopalazzodev@gmail.com>"]
+
+[dependencies]
